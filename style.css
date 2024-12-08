@@ -1,0 +1,19 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+    background: #f0f0f0;
+}
+
+#controls {
+    text-align: center;
+    margin-top: 10px;
+}
+
+button {
+    margin: 10px;
+}
+
+button.active {
+    background-color: #4CAF50;
+    color: white;
+}
