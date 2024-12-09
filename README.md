@@ -1,3 +1,7 @@
+# Lisence
+
+This project is licensed under the MIT License, see the LICENSE.txt file for details
+
 # Minion Flow Simulation
 
 This project is a simulation model of minion wave control in **League of Legends (LoL)**. It was created as a fun way to visualize and experiment with the flow of minions, inspired by the game's mechanics.
